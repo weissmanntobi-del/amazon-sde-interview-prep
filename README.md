@@ -126,3 +126,10 @@ They test whether you can:
 - Deliver reliable systems
 
 Prepare like an engineer, not like someone memorizing questions.
+
+## Coming Soon
+
+- FAANG Coding Pattern Guide
+- Amazon Leadership Principles Story Bank
+- Project Deep Dive Workbook
+- 2-Week Amazon SDE Preparation Plan
